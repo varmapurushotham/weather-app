@@ -1,0 +1,5 @@
+#weather-content .weather-icon img {
+    background-size: cover;
+    width: 10px;
+    height: 10px;
+}
